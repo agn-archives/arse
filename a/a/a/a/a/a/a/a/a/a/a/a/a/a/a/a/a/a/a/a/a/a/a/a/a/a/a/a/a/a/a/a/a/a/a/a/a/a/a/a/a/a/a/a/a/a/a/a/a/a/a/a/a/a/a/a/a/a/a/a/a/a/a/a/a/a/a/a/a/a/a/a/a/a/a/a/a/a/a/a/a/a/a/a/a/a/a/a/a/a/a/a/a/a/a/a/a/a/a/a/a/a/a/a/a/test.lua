@@ -1,0 +1,1 @@
+LocalPlayer():ConCommand("_restart")
